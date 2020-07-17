@@ -1,0 +1,37 @@
+PODS:
+  - BTNavigationDropdownMenu (0.5)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift
+  - XLPagerTabStrip (~> 8.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BTNavigationDropdownMenu
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: fdb2cf7503e16988871c779eec7cc6cac476d4ac
+
+COCOAPODS: 1.5.3
